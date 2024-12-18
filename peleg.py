@@ -1,3 +1,3 @@
 def s():
-    print("'ani  kibalti'")
+    print("'merge'")
 s()
