@@ -1,5 +1,5 @@
 def print_e():
-    print("elly")
+    print("iaty")
 
 def print_hazut():
     print("hazut")
