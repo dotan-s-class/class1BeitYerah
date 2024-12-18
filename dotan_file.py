@@ -1,4 +1,4 @@
-def print_dotan():
+def print_d():
     print("dotan")
 
 def print_hazut():
