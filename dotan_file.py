@@ -1,5 +1,5 @@
-def print_dotan():
-    print("dotan")
+def print_p():
+    print("peleg")
 
 def print_hazut():
     print("hazut")
