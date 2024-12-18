@@ -1,3 +1,3 @@
 def s():
-    print("'updated text'")
+    print("'ani  kibalti 74'")
 s()
