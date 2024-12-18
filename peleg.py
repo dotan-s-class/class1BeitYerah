@@ -1,3 +1,3 @@
-def adi():
-    print("adiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii")
-adi()
+def s():
+    print("'updated text'")
+s()
