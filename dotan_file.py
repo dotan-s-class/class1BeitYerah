@@ -1,5 +1,5 @@
 def print_p():
-    print("peleg")
+    print("itay")
 
 def print_hazut():
     print("hazut")
