@@ -3,3 +3,4 @@ def print_dotan():
 
 def print_hazut():
     print("hazut")
+
