@@ -1,3 +1,3 @@
 def s():
-    print("'ani  kibalti 74'")
+    print("'ani  kibalti'")
 s()
